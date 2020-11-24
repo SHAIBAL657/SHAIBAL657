@@ -1,16 +1,19 @@
+# Shaibal Das Gupta
+
+
+
 ### Hi there 👋
 
 <!--
-**SHAIBAL657/SHAIBAL657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SHAIBAL657/SHAIBAL657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+I am Shaibal Das Gupta.I am an independent and self-motivated engineering student.Currently pursuing my B.E. in Information science and Engineering in Bangalore,India.I have a strong link between theory and practical.Adaptable,flexible and willing to learn as well as trustworthy,honest,reliable.My main interest lies in Machine Learning and Computer vision. I also have interest in Software Development. I am always curious to learn something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Artificial Intelligence project.
+- 🌱 I’m currently learning OpenCV.
+- 👯 I’m looking to collaborate on Software Development and AI project.
+- 🤔 I’m looking for a Mentor.
+- 💬 Ask me about Machine Learning,Artificial Intelligence.
+- 📫 How to reach me: You can contact me directly on this [mail](shaibaldas1998@gmail.com)
+- 😄 Pronouns: You choose.
+- ⚡ Fun fact: I love to sing when I got stuck.
