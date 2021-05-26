@@ -16,7 +16,6 @@ I am Shaibal Das Gupta.I am an independent and self-motivated engineering studen
 - 🔭 I’m currently working on a Artificial Intelligence project.
 - 🌱 I’m learning OpenCV.
 - 👯 I’m looking to collaborate on Software Development and AI project.
-- 🤔 I’m looking for a Mentor.
 - 💬 Ask me about Machine Learning,Artificial Intelligence,Flutter.
 - 📫 How to reach me: You can contact me directly on this [mail](shaibaldas1998@gmail.com)
 - 😄 Pronouns: You choose.
