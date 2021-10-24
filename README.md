@@ -14,6 +14,7 @@ I am Shaibal Das Gupta.I am an independent and self-motivated engineering studen
 
 - 🔭 Flutter Developer.
 - 🔭 I’m currently working on a Artificial Intelligence project.
+- 🔭 I’m currently working on a MERN.
 - 🌱 I’m learning OpenCV.
 - 👯 I’m looking to collaborate on Software Development and AI project.
 - 💬 Ask me about Machine Learning,Artificial Intelligence,Flutter.
