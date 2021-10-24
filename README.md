@@ -7,7 +7,7 @@
 <!--
 **SHAIBAL657/SHAIBAL657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am Shaibal Das Gupta.I am an independent and self-motivated engineering student.Currently pursuing my B.E. in Information science and Engineering in Bangalore,India.I have a strong link between theory and practical.Adaptable,flexible and willing to learn as well as trustworthy,honest,reliable.My main interest lies in Machine Learning and Computer vision. I also have interest in Software Development. I am always curious to learn something new.
+I am Shaibal Das Gupta.I am an independent and self-motivated engineering student.I have a strong link between theory and practical.Adaptable,flexible and willing to learn as well as trustworthy,honest,reliable.My main interest lies in Machine Learning and Computer vision. I also have interest in Software Development. I am always curious to learn something new.
 
 
 ## Currently working on a project about a chatbot with Dialogflow and Flutter.
