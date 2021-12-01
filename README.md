@@ -21,3 +21,7 @@ I am Shaibal Das Gupta.I am an independent and self-motivated engineering studen
 - 📫 How to reach me: You can contact me directly on this [mail](shaibaldas1998@gmail.com)
 - 😄 Pronouns: You choose.
 - ⚡ Fun fact: I love to sing when I got stuck.
+
+## _Waka Time Stats:_ ⚡
+    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shaibal&layout=compact" alt="salmanprottoy" /></p>
