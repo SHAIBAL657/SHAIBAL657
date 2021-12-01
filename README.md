@@ -1,6 +1,6 @@
 # Shaibal Das Gupta
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaibal657&label=Profile%20views&color=0e75b6&style=flat" alt="shaibal657" /> </p>
 
 ### Hi there 👋
 
@@ -22,6 +22,12 @@ I am Shaibal Das Gupta.I am an independent and self-motivated engineering studen
 - 😄 Pronouns: You choose.
 - ⚡ Fun fact: I love to sing when I got stuck.
 
+## _Most used languages:_ ⚡
+    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaibal657&show_icons=true&locale=en&layout=compact" alt="shaibal657" /></p>
+
 ## _Waka Time Stats:_ ⚡
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shaibal&layout=compact" alt="salmanprottoy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shaibal&layout=compact" alt="shaibal" /></p>
+
+
