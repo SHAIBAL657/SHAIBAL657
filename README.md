@@ -10,17 +10,7 @@
 I am Shaibal Das Gupta.I am an independent and self-motivated engineering student.I have a strong link between theory and practical.Adaptable,flexible and willing to learn as well as trustworthy,honest,reliable.My main interest lies in Machine Learning and Computer vision. I also have interest in Software Development. I am always curious to learn something new.
 
 
-## Currently working on a project about a chatbot with Dialogflow and Flutter.
-
-- 🔭 Flutter Developer.
-- 🔭 I’m currently working on a Artificial Intelligence project.
-- 🔭 I’m currently working on MERN.
-- 🌱 I’m learning OpenCV.
-- 👯 I’m looking to collaborate on Software Development and AI project.
-- 💬 Ask me about Machine Learning,Artificial Intelligence,Flutter.
-- 📫 How to reach me: You can contact me directly on this [mail](shaibaldas1998@gmail.com)
-- 😄 Pronouns: You choose.
-- ⚡ Fun fact: I love to sing when I got stuck.
+## Currently working as SOFTWARE ENGINEER for a company in DATA TEAM.
 
 ## _Most used languages:_ ⚡
     
